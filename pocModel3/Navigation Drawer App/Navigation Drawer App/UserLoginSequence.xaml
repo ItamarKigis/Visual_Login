@@ -1,0 +1,20 @@
+﻿<Window x:Class="Navigation_Drawer_App.UserLoginSequence"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Navigation_Drawer_App"
+        mc:Ignorable="d"
+        Title="UserLoginSequence" Height="580" Width="700">
+
+    <Grid Background="Indigo" x:Name="ContentRoot" Margin="0,0,2,0">
+        <TextBlock x:Name="EdgeErrorMsg" Background="Indigo" Foreground="Red" Visibility="Hidden"
+                 Text="One or more of the vextes of the polygon you draw is not at the edge of the object" RenderTransformOrigin="0.671,-9.825" Margin="174,7,57,512"/>
+        <Button IsEnabled="False" Name="SubmitImage" Margin="29,7,542,510" Content="Submit" Width="110" RenderTransformOrigin="0.473,1.406"
+                Click="SubmitImage_Click"/>
+        <Image Margin="10" Name="imgPhoto" Width="670" Height="465" 
+               Stretch="Fill" />
+        <Canvas x:Name="canDraw" Background="Transparent" Cursor="Cross" Width="670" Height="465"
+                MouseDown="canDraw_MouseDown" MouseMove="canDraw_MouseMove"/>
+    </Grid>
+</Window>

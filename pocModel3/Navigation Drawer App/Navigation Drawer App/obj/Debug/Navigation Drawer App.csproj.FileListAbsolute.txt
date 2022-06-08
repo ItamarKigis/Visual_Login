@@ -1,0 +1,131 @@
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\source\repos\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\Arun Enterprises Co\Desktop\Navigation Drawer App - YouTube Upload Contents\Source Code\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\משתמש\Documents\pocModel3\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CoreCompileInputs.cache
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\AddImage.g.cs
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\AddImage.baml
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Menu.g.cs
+C:\Users\Itamar\Documents\UI\Navigation Drawer App\Navigation Drawer App\obj\Debug\Menu.baml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe.config
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.exe
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Navigation Drawer App.pdb
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\AddImage.g.cs
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.g.cs
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Menu.g.cs
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.g.cs
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.cache
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App_MarkupCompile.lref
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\AddImage.baml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\MainWindow.baml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Menu.baml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.g.resources
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation_Drawer_App.Properties.Resources.resources
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.GenerateResource.cache
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.exe
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.pdb
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\FluentWPF.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\App.baml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csproj.CopyComplete
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\MaterialDesignColors.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Navigation Drawer App.csprojAssemblyReference.cache
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\IronPython.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\IronPython.Modules.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\IronPython.SQLite.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\IronPython.Wpf.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Microsoft.Scripting.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\IronPython.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\IronPython.Modules.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\IronPython.SQLite.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\IronPython.Wpf.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Microsoft.Scripting.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\UserLoginSequence.g.cs
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\UserLoginSequence.baml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Buffers.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Memory.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Text.Json.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.ValueTuple.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Buffers.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Memory.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Text.Json.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\System.ValueTuple.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Settings.g.cs
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\Settings.baml
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\SetEmail.g.cs
+C:\Users\משתמש\Documents\pocModel3\Navigation Drawer App\Navigation Drawer App\obj\Debug\SetEmail.baml

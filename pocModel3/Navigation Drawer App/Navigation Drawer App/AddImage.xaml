@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="Navigation_Drawer_App.AddImage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:fw="clr-namespace:SourceChord.FluentWPF;assembly=FluentWPF"
+             xmlns:local="clr-namespace:Navigation_Drawer_App"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="900">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="booleanToVisibilityConverter" />
+    </UserControl.Resources>
+
+    <Grid fw:PointerTracker.Enabled="True" x:Name="grit">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*" />
+            <ColumnDefinition Width="349*" />
+            <ColumnDefinition Width="30*" />
+        </Grid.ColumnDefinitions>
+        <Image Margin="151,122,10,10" Name="imgPhoto" 
+               Stretch="Fill" Grid.Column="1" Grid.ColumnSpan="2" Width="670"/>
+        
+        
+        <TextBlock Name="InstructionText" Text="Click on the upload button below to display the image:" Grid.Column="1" Margin="226,19,52,533" FontSize="20" Foreground="White"/>
+        <Button Name="Load" Click="btnLoad_Click" Height="50" Width="149" BorderThickness="0"  Style="{StaticResource ButtonRoundAccentRevealStyle}" RenderTransformOrigin="6.88,-0.72" Margin="183,67,351,483" Grid.Column="1" >
+            <TextBlock Name="UploadSymbol" Foreground="Yellow" FontFamily="Segoe MDL2 Assets" Text="&#xE898;" FontSize="16" Grid.Column="1" Margin="0" Grid.ColumnSpan="2"/>
+        </Button>
+
+        <Rectangle
+                   Margin="151,122,10,10" x:Name="ImagePlace"
+                   Fill="{fw:AcrylicBrush grid}"
+                   Stroke="Black"
+                   Visibility="{Binding IsChecked, ElementName=chkShowAcrylicLayer, Converter={StaticResource booleanToVisibilityConverter}}" Grid.Column="1" Grid.ColumnSpan="2">
+        </Rectangle>
+        <TextBlock Name="Folder" Foreground="Yellow" FontFamily="Segoe MDL2 Assets" Text="&#xF12B;" FontSize="56" Grid.Column="1" Margin="464,340,-464,-340" Grid.ColumnSpan="2"/>
+        <TextBlock Name="Plus" Foreground="Yellow" FontFamily="Segoe MDL2 Assets" Text="&#xE710;" FontSize="36" Grid.Column="1" Margin="510,380,-510,-380" Grid.ColumnSpan="2"/>
+        <Canvas x:Name="canvas" Grid.Column="1" Margin="151,122,10,10" Grid.ColumnSpan="2"
+                MouseEnter="canvas_MouseEnter" MouseLeave="canvas_MouseLeave" MouseLeftButtonDown="canvas_MouseLeftButtonDown"/>
+
+        <Canvas x:Name="canvasPolygon" Grid.Column="1" Margin="151,122,10,10" Grid.ColumnSpan="2"/>
+
+        <TextBlock x:Name="anotherImage" Text="" Grid.Column="1" Margin="226,50,394,533"  FontSize="10" Foreground="White"/>
+
+        <TextBlock x:Name="SubmitPolygonMessage" Text="Do you want to lock your computer with this image?" 
+                   Grid.Column="1" Margin="226,19,52,533" Visibility="Hidden" Foreground="White" FontSize="20"/>
+        <Button x:Name="FinalSubmit" Content="Yes" Margin="308,72,394,490" Grid.Column="1" Visibility="Hidden" Click="PolygonSubmitted"/>
+        <Button x:Name="ChoosePolygonAgain" Content="No" Margin="510,72,192,490" Grid.Column="1" Visibility="Hidden" Click="ChoosePolygonAgain_Click"/>
+
+    </Grid>
+</UserControl>
